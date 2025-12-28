@@ -63,3 +63,5 @@
     <img src="https://img.shields.io/badge/🚀_Visit_jumaan.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
